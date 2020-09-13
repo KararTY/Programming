@@ -1,3 +1,5 @@
+Based on presentations by "Uncle Bob".
+
 # Programming
 
 You don't want nouns in function names: `TestableHtml`.
